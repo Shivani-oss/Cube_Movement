@@ -6,4 +6,4 @@ Passes the cube through various block present at certain level, this games consi
 
 Instruction
 
-A - Left, D - Right
+W - Run, A - Left, D - Right
