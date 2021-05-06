@@ -2,7 +2,7 @@
 
 ### Build a game using Unity Enviroment
 
-Passes the cube through various block present at certain level, this games consist upto 5th level
+Passes the cube through various block present at certain level, this games consist some level
 
 ##To Run App (after cloning Project)
 
